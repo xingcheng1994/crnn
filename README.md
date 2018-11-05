@@ -1,3 +1,5 @@
+# 这个是 Convolutional Recurrent Neural Network (CRNN) 的 PyTorch 实现。CRNN 由一些CNN，RNN和CTC组成，常用于基于图像的序列识别任务，例如场景文本识别和OCR。
+
 Convolutional Recurrent Neural Network
 ======================================
 
